@@ -19,7 +19,9 @@ Change XBOX to PS4 :
 2.  Update to PES version 1.07.02  
 -   Copy version update downloaded from `PES 2021 UPDATE Datapack7.0.0 and Version 1.07.02` to source PES folder `C:\\Programs Files\PES 2021 SEASON UPDATE`  
 3.  Update `Datapack 7.0.0`, `PS4 control change`
--   Open efootball DPfilelist :  
+-   Open efootball DPfilelist :
+![image](https://user-images.githubusercontent.com/63294758/190960919-db798d57-aeab-4a27-9af7-49e3b10dd3db.png)
+
     +   Choose DPFileList :  `eFootball PES 2021\download\DpFileList.bin`(Chose DpFileList.bin from `download` folder on source patch install PES 2021)  
     +   Choose CPKs patch : `eFootball PES 2021\download`  
 -   Copy all cpk file update datapack from `dt200` to `dt700` and cpk PS4 `PS4_Addcontrol_for_PES2021.cpk` to `eFootball PES 2021\download`  
