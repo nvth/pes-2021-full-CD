@@ -26,7 +26,7 @@ Change XBOX to PS4 :
     +   Choose CPKs patch : `eFootball PES 2021\download`  
 -   Copy all cpk file update datapack from `dt200` to `dt700` and cpk PS4 `PS4_Addcontrol_for_PES2021.cpk` to `eFootball PES 2021\download`  
 -   On DLCs, press UPDATE DLC, tick `Silence Mode`,`Saves last selection` and uncheck all  
--   After uncheck, check on checkbox order by ascending : `dt200` -> `dt300` -> .. ->`dt700` -> `PS4_Addcontrol_for_PES2021.cpk` 
+-   After uncheck, check on checkbox order by ascending : `dt100` -> `dt200` -> .. ->`dt700` -> `PS4_Addcontrol_for_PES2021.cpk` 
 -   Select Generate DPFileList 
 -   After Generate DpFileList, its notice successfull, got a PES 2021 with lastest update version  
 4.  options patch `Summer Transfer 2022` (work on 9/19/2022)
