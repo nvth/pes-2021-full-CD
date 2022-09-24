@@ -1,15 +1,20 @@
 # pes-2021-full-CD
 ## PES 2021 full CD
-Download PES 2021 at :  
+Download PES 2021 at :  https://www.fshare.vn/file/N5JYWG9KVDXD
+
 ## PES 2021 UPDATE Datapack7.0.0 and Version 1.07.02
-Download cpk datapack:
-Download version update : 
+Download cpk datapack: https://www.fshare.vn/file/AWDW6TFC4ASU
+
+Download version update : https://www.fshare.vn/file/V2B6OKJOLM5G
+
 ## PES 2021 Update 2022 Summer transfer 
-Download Update 2022 Summer transfer Option file patch :  
+Download Update 2022 Summer transfer Option file patch :  https://www.fshare.vn/file/TQYCLLZU2HWU
+
 ## PES 2021 Others
 Change XBOX to PS4 :  
 -   Downloads cpk file config
--   efootball DPfilelist
+-   efootball DPfilelist : https://www.fshare.vn/file/FGPXADNXG53Q
+
 ## How to install
 1.  Install PES 2022 v1.0.0 Datapack 1.0.0
 -   Mount ISO file
